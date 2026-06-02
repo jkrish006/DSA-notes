@@ -1,0 +1,95 @@
+What is Python?
+Python is a high-level, easy-to-learn programming language used for:
+	• Web development
+	• Data Science
+	• Machine Learning
+	• Artificial Intelligence
+	• Automation
+	• App development
+It is one of the most popular programming languages in the world.
+
+Simple Definition
+Python is a programming language used to give instructions to computers.
+
+Why Python is Popular
+Easy Syntax
+Python code is simple and readable.
+Example:
+print("Hello World")
+
+Fast Development
+You can build projects quickly with less code.
+
+Huge Community
+Millions of developers use Python worldwide.
+
+Powerful Libraries
+Python has libraries for almost everything.
+Examples:
+	• NumPy
+	• Pandas
+	• TensorFlow
+	• Flask
+
+Where Python is Used
+1. Data Science
+	• Data analysis
+	• Visualization
+	• Machine learning
+
+2. Artificial Intelligence
+	• Chatbots
+	• AI models
+	• Recommendation systems
+
+3. Web Development
+Frameworks:
+	• Django
+	• Flask
+Used for websites and web apps.
+
+4. Automation
+Automating repetitive tasks like:
+	• File management
+	• Web scraping
+	• Email sending
+
+5. Game Development
+Used in simple game creation.
+
+Companies Using Python
+	• Google
+	• Netflix
+	• Instagram
+	• Spotify
+	• Dropbox
+
+Python Learning Flow
+Python Basics      │      ▼Conditions & Loops      │      ▼Functions      │      ▼OOP Concepts      │      ▼Libraries      │      ▼Projects
+
+Advantages of Python
+	• Beginner friendly
+	• Easy syntax
+	• Cross-platform
+	• Large community
+	• Great for AI & ML
+	• Huge job opportunities
+
+Example Programs
+Print Message
+print("Hello")
+Addition
+a = 5b = 3print(a + b)
+
+Python in Data Science
+Python is heavily used in:
+	• Data Analytics
+	• Machine Learning
+	• Deep Learning
+	• AI systems
+Important libraries:
+	• Pandas
+	• NumPy
+	• Scikit-learn
+	• TensorFlow
+	• PyTorch
